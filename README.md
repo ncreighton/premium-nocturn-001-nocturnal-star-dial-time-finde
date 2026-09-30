@@ -1,0 +1,2 @@
+# premium-nocturn-001-nocturnal-star-dial-time-finde
+Tired of losing track of your star dial measurements or forgetting which celestial alignment you calibrated for? This construction log turns your Notion workspace into a dedicated observatory notebook.  The Nocturnal Star Dial Time Finder Construction Log eliminates paper clutter and calculation errors by providing a structured digital space to rec
